@@ -99,6 +99,8 @@ scaler.pkl
 
 -Deploy
 
+---
+
 ### Technologies Used
 
 -Python
